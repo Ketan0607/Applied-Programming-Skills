@@ -6,12 +6,14 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0890-find-and-replace-pattern](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0918-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
+| [0890-find-and-replace-pattern](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 ## Stack
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0008-string-to-integer-atoi) |
+| [0890-find-and-replace-pattern](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 ## Sliding Window
 |  |
 | ------- |
