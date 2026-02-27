@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0496-next-greater-element-i) |
 | [0890-find-and-replace-pattern](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0890-find-and-replace-pattern) |
 ## Stack
@@ -59,9 +60,11 @@
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
