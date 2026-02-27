@@ -56,4 +56,12 @@
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/1408-string-matching-in-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Ketan0607/Applied-Programming-Skills/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
